@@ -1,4 +1,6 @@
 # Audio [![build status][travis-i]][travis] [![gitter][gitter-i]][gitter]
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/audiojs/audio.svg)](https://greenkeeper.io/)
 > Framework for handling audio in JavaScript.
 
 ```javascript
