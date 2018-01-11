@@ -42,7 +42,7 @@
     "audio-buffer-list": "^5.0.0",
     "audio-buffer-remix": "^1.0.3",
     "audio-buffer-utils": "^5.0.1",
-    "audio-context": "^1.0.1",
+    "audio-context": "^1.0.3",
     "audio-decode": "^1.2.6",
     "audio-format": "^2.2.1",
     "audio-loader": "^1.0.3",
