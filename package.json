@@ -47,7 +47,7 @@
     "audio-decode": "^1.4.0",
     "audio-format": "^2.2.1",
     "audio-loader": "^1.0.3",
-    "audio-play": "^2.2.0",
+    "audio-play": "^2.2.1",
     "audiobuffer-to-wav": "^1.0.0",
     "callsites": "^2.0.0",
     "clamp": "^1.0.1",
