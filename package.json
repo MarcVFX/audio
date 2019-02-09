@@ -22,7 +22,7 @@
     "ogg.js": "^0.1.0",
     "opus.js": "^0.1.1",
     "periodic-function": "^1.1.4",
-    "tape": "^4.6.0",
+    "tape": "^4.10.0",
     "vorbis.js": "^0.1.1"
   },
   "keywords": [
